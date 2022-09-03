@@ -1,0 +1,25 @@
+{
+  "name": "desafio-quero-ser-qa",
+  "version": "1.0.0",
+  "description": "testes automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdenilsonAlves/desafio-quero-ser-qa.git"
+  },
+  "author": "Edenilson Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdenilsonAlves/desafio-quero-ser-qa/issues"
+  },
+  "homepage": "https://github.com/EdenilsonAlves/desafio-quero-ser-qa#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  },
+  "dependencies": {
+    "eslint": "^8.23.0"
+  }
+}
