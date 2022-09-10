@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/EdenilsonAlves/desafio-quero-ser-qa#readme",
   "devDependencies": {
-    "cypress": "^10.7.0"
+    "cypress": "^10.7.0",
+    "mochawesome": "^7.1.3"
   },
   "dependencies": {
     "eslint": "^8.23.0"

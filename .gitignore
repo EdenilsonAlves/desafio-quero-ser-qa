@@ -2,3 +2,4 @@ node_modules/
 cypress/videos
 cypress/screenshots 
 *-lock.json
+cypress.env.json
