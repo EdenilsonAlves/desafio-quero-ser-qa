@@ -87,12 +87,11 @@ Depois de selecionado, você vai marcar a opção **Start E2E Testing in navegad
 
 Em seguida abrirá  os arquivos que foram adicionados ao projeto: 
 
-<<<<<<< HEAD
-<img src="https://user-images.githubusercontent.com/98066667/190545709-1b831528-c409-4e57-9ed2-f22e7f9c
-0fe5.png" style="width:899px;height:300px" >
-=======
-<img src="https://user-images.githubusercontent.com/77105353/190827266-689beebc-297e-47f9-9d0d-8efdaf5cb221.png" style="width:900px;height:300px" >
->>>>>>> b8b1d9725400417ec624f3725a2d8dd7868a74de
+
+
+
+<img src="https://user-images.githubusercontent.com/77105353/190827266-689beebc-297e-47f9-9d0d-8efdaf5cb221.png" style="width:900px;height:300px">
+
 
 O **botão Specs** demonstra todos os arquivos de teste do projeto. Um clique em um dos arquivos já executa o mesmo e mostra os outros na barra lateral esquerda, para serem executados também facilmente.
 
