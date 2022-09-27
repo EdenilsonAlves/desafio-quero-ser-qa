@@ -5,9 +5,9 @@ const localizador = {
         btn_login: '[data-test="login-button"]'
     },
 
-    Menu: {
-        Setting: '#react-burger-menu-btn',
-        logout: 'a'
+    menu: {
+        setting: '#react-burger-menu-btn',
+        logout: '#logout_sidebar_link'
     },
 
     inventory: {
@@ -28,27 +28,10 @@ const localizador = {
         btn_finish: '[data-test="finish"]'
     },
     checkout_complete: {
-        text_thank_you_for_your_order:'[class="complete-header"]'
-
-
+        text_thank_you_for_your_order: '[class="complete-header"]'
+        
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 }
 
 export default localizador
