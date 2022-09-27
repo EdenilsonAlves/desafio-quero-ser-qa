@@ -64,8 +64,8 @@ Você precisa criar seu próprio cypress.env.json arquivo que o Cypress verifica
 
 ```
 {
-  "host": "seu e-mail",
-  "api_server": "sua senha"
+  "user_name": "seu e-mail",
+  "password": "sua senha"
 }
 ```
 
